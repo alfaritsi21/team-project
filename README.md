@@ -1,41 +1,43 @@
-<h1 align='center'>Vue JS - #nama_projek</h1>
-  <p align="center">
-    <a href="link_deploy">View Demo</a>
-    ·
-    <a href="https://github.com/Bagusth15/team-project/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Bagusth15/team-project/issues">Request Feature</a>
-  </p>
-
-## About The Project
-#background_projek.
-
+<h1 align="center">ExpressJS - #Nama_Projek RESTfull API</h1>
+ 
 ## Built With
 
-[![Vue](https://img.shields.io/badge/Vue-v2.6.11-green)](https://github.com/vuejs/vue)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.5.x-blue)](https://github.com/bootstrap-vue/bootstrap-vue)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
+[![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
 
 ## Requirements
 
 1. <a href="https://nodejs.org/en/download/">Node Js</a>
-2. Node_modules `npm install` or `yarn install`
-3. Backend API #nama_projek [`here`](https://github.com/arkbootcamp/week4-web3-express)
+2. Node_modules
+3. <a href="https://www.getpostman.com/">Postman</a>
+4. Web Server (ex. localhost)
 
-## Getting Started
+## Getting Started ?
 
-1. Download this Project or you can type `git clone #link_git`
-2. Open app's directory in CMD or Terminal
-3. Type `npm install` or `yarn install`
-4. Add .env file at root folder project
-```sh
-VUE_APP_ENDPOINT = [Backend API]
+1. Open app's directory in CMD or Terminal
+2. Type `npm install`
+3. Make new file a called **.env**, set up first [here](#set-up-env-file)
+4. Turn on Web Server and MySQL can using Third-party tool like xampp, etc.
+5. Create a database with the name #nama_database, and Import file sql to **phpmyadmin**
+6. Open Postman desktop application or Chrome web app extension that has installed before
+7. Choose HTTP Method and enter request url.(ex. localhost:3000/)
+8. You can see all the end point [here](#end-point)
+
+## Set up .env file
+
+Open .env file on your favorite code editor, and copy paste this code below :
+
 ```
-5. Type `npm run serve`
+DB_HOST=localhost // Database host
+```
+
+## API documentation link
+
+See [Documentation API](https://interstellar-robot-6874-1.postman.co/collections/9852901-4270797a-5372-4d65-bbb1-80ced864233e?version=latest&workspace=75e558bd-82d9-4039-8609-a021f61852a1#30c78c02-31bf-44d1-bda2-8cb61468733a)
 
 ## Acknowledgements
 
-- [Axios](https://www.npmjs.com/package/axios)
-- [Vuex](https://vuex.vuejs.org/)
+- [Multer](https://www.npmjs.com/package/multer)
 
 ## Team
 
