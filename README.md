@@ -1,4 +1,11 @@
 <h1 align='center'>Vue JS - #nama_projek</h1>
+  <p align="center">
+    <a href="link_deploy">View Demo</a>
+    ·
+    <a href="https://github.com/Bagusth15/team-project/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Bagusth15/team-project/issues">Request Feature</a>
+  </p>
 
 #background_projek. [More about Vue](https://vuejs.org/)
 
