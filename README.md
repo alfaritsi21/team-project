@@ -36,25 +36,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 > All Members of Default Team
 
-| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Full-Stack Developer & Team Leader**</a> 
-| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Front-End Developer**</a> 
-| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Front-End Developer**</a> 
-| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Back-End Developer**</a> 
-| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Back-End Developer**</a> 
-| 
+| <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Full-Stack Developer & Team Leader**</a> | <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Front-End Developer**</a> | <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Front-End Developer**</a> | <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Back-End Developer**</a> | <a href="https://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html" target="_blank">**Back-End Developer**</a> | 
 | :---: |:---:| :---:|:---:| :---:|
-| [![Full-Stack Developer](https://avatars0.githubusercontent.com/u/64903162?s=460&v=4)](http://fvcproductions.com)    
-| [![FVCproductions](https://avatars3.githubusercontent.com/u/57256855?s=460&u=098d4a10d90859d3581913797d790c1111ee71cb&v=4)](http://fvcproductions.com) 
-| [![Full-Stack Developer](https://avatars2.githubusercontent.com/u/67103326?s=460&u=22d27ed3b3a748f40ace032f62ccc8d1cf54b745&v=4)](http://fvcproductions.com)  
-| [![Front-End Developer](https://avatars2.githubusercontent.com/u/67205885?s=460&v=4)](http://fvcproductions.com)    
-| [![FVCproductions](https://avatars0.githubusercontent.com/u/64903162?s=460&v=4)](http://fvcproductions.com) 
-| [![Full-Stack Developer](https://avatars2.githubusercontent.com/u/67103326?s=460&u=22d27ed3b3a748f40ace032f62ccc8d1cf54b745&v=4)](http://fvcproductions.com)  
-|
-| <a href="https://github.com/link_github_fullstack" target="_blank">`https://github.com/link_github_fullstack`</a> 
-| <a href="https://github.com/link_github_frontend" target="_blank">`https://github.com/link_github_frontend`</a> 
-| <a href="https://github.com/link_github_frontend" target="_blank">`https://github.com/link_github_frontend`</a> 
-| <a href="https://github.com/link_github_backend" target="_blank">`https://github.com/link_github_backend`</a> 
-| <a href="https://github.com/link_github_backend" target="_blank">`https://github.com/link_github_backend`</a> 
-|
+| [![Full-Stack Developer](https://avatars0.githubusercontent.com/u/64903162?s=460&v=4)](http://fvcproductions.com) | [![FVCproductions](https://avatars3.githubusercontent.com/u/57256855?s=460&u=098d4a10d90859d3581913797d790c1111ee71cb&v=4)](http://fvcproductions.com) | [![Full-Stack Developer](https://avatars2.githubusercontent.com/u/67103326?s=460&u=22d27ed3b3a748f40ace032f62ccc8d1cf54b745&v=4)](http://fvcproductions.com) | [![Front-End Developer](https://avatars2.githubusercontent.com/u/67205885?s=460&v=4)](http://fvcproductions.com) | [![FVCproductions](https://avatars0.githubusercontent.com/u/64903162?s=460&v=4)](http://fvcproductions.com) | [![Full-Stack Developer](https://avatars2.githubusercontent.com/u/67103326?s=460&u=22d27ed3b3a748f40ace032f62ccc8d1cf54b745&v=4)](http://fvcproductions.com) |
+| <a href="https://github.com/link_github_fullstack" target="_blank">`https://github.com/link_github_fullstack`</a> | <a href="https://github.com/link_github_frontend" target="_blank">`https://github.com/link_github_frontend`</a> | <a href="https://github.com/link_github_frontend" target="_blank">`https://github.com/link_github_frontend`</a> | <a href="https://github.com/link_github_backend" target="_blank">`https://github.com/link_github_backend`</a> | <a href="https://github.com/link_github_backend" target="_blank">`https://github.com/link_github_backend`</a> |
 
 ---
