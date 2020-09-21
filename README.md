@@ -7,6 +7,8 @@
     <a href="https://github.com/Bagusth15/team-project/issues">Request Feature</a>
   </p>
 
+![Image Banner](https://raw.githubusercontent.com/Bagusth15/team-project/master/image_banner.jpg)
+
 ## About The Project
 #background_projek.
 
