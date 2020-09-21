@@ -7,7 +7,8 @@
     <a href="https://github.com/Bagusth15/team-project/issues">Request Feature</a>
   </p>
 
-#background_projek. [More about Vue](https://vuejs.org/)
+## About The Project
+#background_projek.
 
 ## Built With
 
