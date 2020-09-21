@@ -32,6 +32,11 @@ VUE_APP_ENDPOINT = [Backend API]
 ```
 5. Type `npm run serve`
 
+## Acknowledgements
+
+- [Axios](https://www.npmjs.com/package/axios)
+- [Vuex](https://vuex.vuejs.org/)
+
 ## Team
 
 > All Members of Default Team
