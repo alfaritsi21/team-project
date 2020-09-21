@@ -32,14 +32,6 @@ VUE_APP_ENDPOINT = [Backend API]
 ```
 5. Type `npm run serve`
 
-## Visit the Web
-
-You can visit the web [`here`](https://www.google.com/)
-
-## Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ## Team
 
 > All Members of Default Team
